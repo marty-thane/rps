@@ -1,6 +1,6 @@
 # RPS (Rock-Paper-Scissors) with AI
 
-![Example Video](demonstration.mp4) <!-- Include a video demonstration -->
+<!-- Include a video demonstration -->
 
 ## Description
 
