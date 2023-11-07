@@ -1,6 +1,6 @@
 # RPS (Rock-Paper-Scissors) with AI
 
-[![Example video](assets/thumbnail.jpg)](https://github.com/marty-thane/rps/raw/master/assets/demonstration.mp4)
+[![Example video](assets/thumbnail.jpg)](https://github.com/marty-thane/rps/raw/master/assets/demo.mp4)
 
 ## Description
 
