@@ -5,7 +5,7 @@ FPS = 1000 // 10
 ASSET_DIR = "assets" # for sounds etc
 DATA_DIR = "data" # where to store captured images
 DATA_SIZE = 48 # side of captured data in pixels
-LOG_BUFFER_SIZE = 6
+LOG_BUFFER_SIZE = 3
 GESTURE_BUFFER_SIZE = 8
 
 # convenients color constants
