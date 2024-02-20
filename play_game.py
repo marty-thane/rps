@@ -65,7 +65,7 @@ def make_results(player, ai):
     else:
         play_audio(sounds["tie"])
         log("IT'S A TIE!")
-        return(0,0)
+        return (0,0)
 
 log("GAME STARTED!")
 log("waiting for input...")
