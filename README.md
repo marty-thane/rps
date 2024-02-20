@@ -51,12 +51,3 @@ Follow these steps to get started with the RPS AI game:
 You can customize the game's frame rate, window dimensions, and more by
 modifying the variables stored in `constants.py`. Adjust these variables to
 fine-tune the game to your liking.
-
-## License
-
-This project is dedicated to the public domain under the [CC0 1.0 Universal
-(CC0 1.0)](LICENSE) License.
-
-You are free to copy, modify, distribute, and use the code in any way you see
-fit. There are no restrictions, and you are not required to provide
-attribution.
